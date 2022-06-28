@@ -1,0 +1,12 @@
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\bin\Debug\Hassan Search engine.exe.config
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\bin\Debug\Hassan Search engine.exe
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\bin\Debug\Hassan Search engine.pdb
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\bin\Debug\Hassan Search engine.xml
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.vbproj.AssemblyReference.cache
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan_Search_engine.Form1.resources
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan_Search_engine.Resources.resources
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.vbproj.GenerateResource.cache
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.vbproj.CoreCompileInputs.cache
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.exe
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.xml
+C:\Users\main user\source\repos\Hassan Search engine\Hassan Search engine\obj\Debug\Hassan Search engine.pdb
